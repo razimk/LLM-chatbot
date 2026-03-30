@@ -125,6 +125,3 @@ FastAPI
 LangChain
 Groq LLM
 
-## 📸 Chatbot UI
-
-![Chatbot UI](Screenshot.png)
